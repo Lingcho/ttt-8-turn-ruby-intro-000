@@ -13,8 +13,6 @@ def turn(board)
   display_board(board)
 
 
-
-
 end
 
 
@@ -53,3 +51,6 @@ def position_taken?(board, index_number)
     false
   end
 end
+
+
+p turn
