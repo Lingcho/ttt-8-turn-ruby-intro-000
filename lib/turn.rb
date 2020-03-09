@@ -53,4 +53,4 @@ def position_taken?(board, index_number)
 end
 
 
-p turn
+p turn(board)
